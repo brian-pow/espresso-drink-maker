@@ -4,4 +4,4 @@ My goal is to make screen recordings of the Android emulator look a bit more "to
 
 Here's what it looks like:
 
-![Output sample](https://github.com/ajasmin/camstudio-mousedown-highlight/raw/master/android_vid_test.gif)
+![espresso_recording](https://user-images.githubusercontent.com/42954670/104954168-5ec28800-598d-11eb-9f9b-1d448cfda84b.gif)
